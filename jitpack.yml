@@ -1,3 +1,3 @@
 install:
   - FILE="-Dfile=lib_dimen-release.aar"
-  - mvn install:install-file $FILE -DgroupId=com.github.codeZeng95 -DartifactId=lib_dimen -Dversion=1.0.0 -Dpackaging=aar -DpomFile=pom.xml
+  - mvn install:install-file $FILE -DgroupId=com.github.codeZeng95 -DartifactId=lib_dimen -Dversion=1.0.1 -Dpackaging=aar -DpomFile=pom.xml
